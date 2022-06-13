@@ -1,3 +1,3 @@
-# PRIS_CinemaFront
+# CinemaApp Front
 
-A frontend React app developed as the final project of Process of Information System Development course at Faculty of Sciences in Novi Sad.
+A CinemaApp React frontend.
